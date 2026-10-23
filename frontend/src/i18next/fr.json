@@ -1,0 +1,32 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos de nous",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "main": {
+    "title": "Chapitres de l'Équation Différentielle",
+    "chap1": "Chapitre 1 : Équations différentielles du premier ordre",
+    "chap2": "Chapitre 2 : Équations différentielles du second ordre",
+    "chap3": "Chapitre 3 : Systèmes d'équations différentielles",
+    "chap4": "Chapitre 4 : Transformées de Laplace",
+    "chap5": "Chapitre 5 : Solutions en série",
+    "chap6": "Chapitre 6 : Problèmes aux limites",
+    "chap7": "Chapitre 7 : Équations différentielles partielles",
+    "chap8": "Chapitre 8 : Méthodes numériques",
+    "chap9": "Chapitre 9 : Applications en physique et en ingénierie",
+    "chap10": "Chapitre 10 : Sujets avancés"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "nameLabel": "Nom complet",
+    "emailLabel": "Adresse courriel",
+    "submitButton": "Envoyer le message"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue.",
+    "success": "Succès !"
+  }
+}

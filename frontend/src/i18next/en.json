@@ -1,0 +1,32 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "main": {
+    "title": "Chapters of Differential Equations",
+    "chap1": "Chapter 1: First-Order Differential Equations",
+    "chap2": "Chapter 2: Second-Order Differential Equations",
+    "chap3": "Chapter 3: Systems of Differential Equations",
+    "chap4": "Chapter 4: Laplace Transforms",
+    "chap5": "Chapter 5: Series Solutions",
+    "chap6": "Chapter 6: Boundary Value Problems",
+    "chap7": "Chapter 7: Partial Differential Equations",
+    "chap8": "Chapter 8: Numerical Methods",
+    "chap9": "Chapter 9: Applications in Physics and Engineering",
+    "chap10": "Chapter 10: Advanced Topics"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "nameLabel": "Full Name",
+    "emailLabel": "Email Address",
+    "submitButton": "Send Message"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong.",
+    "success": "Success!"
+  }
+}
