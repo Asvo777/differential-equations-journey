@@ -7,17 +7,33 @@
   },
   "main": {
     "title": "Chapitres de l'Équation Différentielle",
-    "chap1": "Chapitre 1 : Équations différentielles du premier ordre",
-    "chap2": "Chapitre 2 : Équations différentielles du second ordre",
-    "chap3": "Chapitre 3 : Systèmes d'équations différentielles",
-    "chap4": "Chapitre 4 : Transformées de Laplace",
-    "chap5": "Chapitre 5 : Solutions en série",
-    "chap6": "Chapitre 6 : Problèmes aux limites",
-    "chap7": "Chapitre 7 : Équations différentielles partielles",
-    "chap8": "Chapitre 8 : Méthodes numériques",
-    "chap9": "Chapitre 9 : Applications en physique et en ingénierie",
-    "chap10": "Chapitre 10 : Sujets avancés"
+    "chap1": "Points critiques et analyse de la stabilité",
+    "chap2": "Équations différentielles du second ordre",
+    "chap3": "Systèmes d'équations différentielles",
+    "chap4": "Transformées de Laplace",
+    "chap5": "Solutions en série",
+    "chap6": "Problèmes aux limites",
+    "chap7": "Équations différentielles partielles",
+    "chap8": "Méthodes numériques",
+    "chap9": "Applications en physique et en ingénierie",
+    "chap10": "Sujets avancés"
   },
+
+  "chap1":{
+    "Description": "Ce chapitre présente le concept de points critiques dans le contexte des équations différentielles.",
+
+    "Topic1-1": "Voici une fonction. Elle est continue, c'est-à-dire qu'elle n'a pas de rupture de -∞ à +∞.",
+    "Topic2-1": "il existe plusieurs types de fonctions. Pour les analyser, nous utilisons les points remarquables de la fonction. Un point remarquable est un point où la fonction, ou une de ses dérivées, est égale à zéro.",
+    "Topic2-2": "Nous allons trouver ensemble les points remarquables de la fonction et analyser leur stabilité. Pour ce faire, nous allons utiliser le portrait de phase de la fonction.",
+    "Topic3-1": "Zéros",
+    "Topic3-2": "Les zéros d'une fonction sont les points où la fonction est égale à zéro. Pour trouver les zéros d'une fonction, nous  devons identifier les points où la fonction est égale à zéro ou résoudre l'équation f(x) = 0.",
+    "Topic4-1": "Points critiques (extremes locaux)",
+    "Topic4-2": "Les points critiques d'une fonction sont les points où la dérivée de la fonction est égale à zéro. Pour trouver les points critiques d'une fonction, nous devons résoudre l'équation f'(x) = 0.",
+    "Topic5-1": "À quoi correspondent les points critiques trouvés?",
+    "Topic5-2": "Les points critiques trouvés peuvent correspondre à des maximums locaux ou des minimums locaux (que tout ce qui vous entoure immédiatement). Pour déterminer la nature de chaque point critique, nous devons examiner la dérivée seconde de la fonction en ces points."
+},
+
+
   "contact": {
     "title": "Contactez-nous",
     "nameLabel": "Nom complet",

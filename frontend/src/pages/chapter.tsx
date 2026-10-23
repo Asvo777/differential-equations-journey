@@ -2,6 +2,7 @@ import React from 'react'
 import { useGlobal } from '../context/GlobalContext.tsx';
 import en from '../i18next/en.json';
 import fr from '../i18next/fr.json';
+import MatchingQuiz from '../components/MatchingQuiz.tsx';
 
 function Chapter(props: { level: number }) {
 
@@ -15,6 +16,8 @@ function Chapter(props: { level: number }) {
         <h2>
         {lang.main[chapterKey]}
         </h2>
+
+        
     </div>
   )
 }
