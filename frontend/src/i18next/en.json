@@ -18,6 +18,12 @@
     "chap9": "Chapter 9: Applications in Physics and Engineering",
     "chap10": "Chapter 10: Advanced Topics"
   },
+
+  "1":{
+    "Description": "This chapter introduces first-order differential equations, including separable and linear equations, and their applications in various fields."
+  },
+
+
   "contact": {
     "title": "Contact Us",
     "nameLabel": "Full Name",
